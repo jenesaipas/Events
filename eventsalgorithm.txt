@@ -1,0 +1,11 @@
+events.html
+START
+1. Click 'Display the List of Events'
+End
+
+events.php
+START
+1. Read list from events.txt
+2. Get ticketfile which is events.txt
+3. Display every other line in <h2> and every other line after that in <h1>.
+END
